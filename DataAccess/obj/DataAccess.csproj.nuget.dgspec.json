@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\DataAccess\\DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\BusinessObject\\BusinessObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\BusinessObject\\BusinessObject.csproj",
+        "projectName": "BusinessObject",
+        "projectPath": "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\stew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\BusinessObject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\DataValidation\\DataValidation.csproj": {
+                "projectPath": "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\DataValidation\\DataValidation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\stew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\BusinessObject\\BusinessObject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\DataValidation\\DataValidation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\DataValidation\\DataValidation.csproj",
+        "projectName": "DataValidation",
+        "projectPath": "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\DataValidation\\DataValidation.csproj",
+        "packagesPath": "C:\\Users\\stew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stew\\Desktop\\09_PhamXuanHieu_ASS1\\Assigment01_MemberManagement\\DataValidation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
